@@ -32,16 +32,24 @@ At the moment I am focused on my studies and improving my programming skills. Fe
 
 <details>
   <summary>📊 GitHub Stats</summary>
-  <br>
-  <p align="center"> 
-    <a href="#"><img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=vGerJ02&theme=nord_dark" /></a>
-    <div align=center>
-      <a href="#"><img align="left" src="https://github-readme-stats.vercel.app/api?username=vGerJ02&theme=nord&include_all_commits=true&count_private=true" /></a>
-      <a href="#"><img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=vGerJ02&theme=nord" /></a>
-    </div>
-    <br><br><br><br><br><br><br><br><br>
-  </p>
+        <br>
+                <div class="stats" align="center">
+ 
+![vGerJ02 Stats](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=vGerJ02&theme=nord_dark)
+
+<br>
+
+![Srike](https://github-readme-stats.vercel.app/api?username=vGerJ02&theme=nord&include_all_commits=true&count_private=true)
+
+<br>
+
+![Most used Languages](https://github-readme-streak-stats.herokuapp.com/?user=vGerJ02&theme=nord)
+
+
+</div>
 </details>
+
+
 
 
 [![](https://visitcount.itsvg.in/api?id=vGerJ02&icon=0&color=5)](https://visitcount.itsvg.in)
