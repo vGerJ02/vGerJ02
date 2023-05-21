@@ -17,7 +17,7 @@ while (alive()) {
     learn();
     improve();
     faster();
-    breath();
+    breathe();
 }
 ```
 
